@@ -9,7 +9,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 const banners = [
   {
     id: 1,
-    image: "/3.jpg?height=600&width=1200",
+    image: "/1.jpg?height=600&width=1200",
     title: "New Arrivals: Embrace Elegance",
     description: "Discover our latest collection of exquisite Kurtis, crafted for comfort and style.",
     link: "/products",
